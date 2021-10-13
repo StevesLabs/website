@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.15f1d394.chunk.css",
-    "main.js": "/static/js/main.ae73adc8.chunk.js",
-    "main.js.map": "/static/js/main.ae73adc8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8d1db6bb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8d1db6bb.js.map",
-    "static/js/2.f081c8c0.chunk.js": "/static/js/2.f081c8c0.chunk.js",
-    "static/js/2.f081c8c0.chunk.js.map": "/static/js/2.f081c8c0.chunk.js.map",
-    "static/js/3.b98ccfe3.chunk.js": "/static/js/3.b98ccfe3.chunk.js",
-    "static/js/3.b98ccfe3.chunk.js.map": "/static/js/3.b98ccfe3.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.15f1d394.chunk.css.map": "/static/css/main.15f1d394.chunk.css.map",
-    "static/js/2.f081c8c0.chunk.js.LICENSE.txt": "/static/js/2.f081c8c0.chunk.js.LICENSE.txt"
+    "main.css": "https://steveslabs.github.io/website/static/css/main.15f1d394.chunk.css",
+    "main.js": "https://steveslabs.github.io/website/static/js/main.cf4d8817.chunk.js",
+    "main.js.map": "https://steveslabs.github.io/website/static/js/main.cf4d8817.chunk.js.map",
+    "runtime-main.js": "https://steveslabs.github.io/website/static/js/runtime-main.9a206e42.js",
+    "runtime-main.js.map": "https://steveslabs.github.io/website/static/js/runtime-main.9a206e42.js.map",
+    "static/js/2.10f5410d.chunk.js": "https://steveslabs.github.io/website/static/js/2.10f5410d.chunk.js",
+    "static/js/2.10f5410d.chunk.js.map": "https://steveslabs.github.io/website/static/js/2.10f5410d.chunk.js.map",
+    "static/js/3.b98ccfe3.chunk.js": "https://steveslabs.github.io/website/static/js/3.b98ccfe3.chunk.js",
+    "static/js/3.b98ccfe3.chunk.js.map": "https://steveslabs.github.io/website/static/js/3.b98ccfe3.chunk.js.map",
+    "index.html": "https://steveslabs.github.io/website/index.html",
+    "static/css/main.15f1d394.chunk.css.map": "https://steveslabs.github.io/website/static/css/main.15f1d394.chunk.css.map",
+    "static/js/2.10f5410d.chunk.js.LICENSE.txt": "https://steveslabs.github.io/website/static/js/2.10f5410d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d1db6bb.js",
-    "static/js/2.f081c8c0.chunk.js",
+    "static/js/runtime-main.9a206e42.js",
+    "static/js/2.10f5410d.chunk.js",
     "static/css/main.15f1d394.chunk.css",
-    "static/js/main.ae73adc8.chunk.js"
+    "static/js/main.cf4d8817.chunk.js"
   ]
 }
